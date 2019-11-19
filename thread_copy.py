@@ -4,7 +4,11 @@
 #  下载文件进行拼接　
 from threading import Thread, Lock
 import os
+
 waefwafawefawefawe
+
+------------------------------------
+
 lock = Lock()
 usl = ["/home/tarena/桌面/",
        "/home/tarena/公共的/",
